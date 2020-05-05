@@ -69,7 +69,7 @@ public class MainActivity extends AppCompatActivity implements AIListener {
         ref = FirebaseDatabase.getInstance().getReference();
         ref.keepSynced(true);
 
-        final AIConfiguration config = new AIConfiguration("413f734a83dc43139ba8d7a8bb3eefe8",
+        final AIConfiguration config = new AIConfiguration("YOUR API KEY HERE",
                 AIConfiguration.SupportedLanguages.English,
                 AIConfiguration.RecognitionEngine.System);
 
