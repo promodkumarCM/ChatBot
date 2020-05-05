@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "502572568956",
+    "firebase_url": "https://movie-chat-72e5e.firebaseio.com",
+    "project_id": "movie-chat-72e5e",
+    "storage_bucket": "movie-chat-72e5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502572568956:android:da4abc92a768c4182954f9",
+        "android_client_info": {
+          "package_name": "com.pkcm.universityoflimerick.moviechatbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502572568956-ctna7lva5m7q8koifiqqegaigejdf4av.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pkcm.universityoflimerick.moviechatbot",
+            "certificate_hash": "36fe6f911f87940f21ccfc21d6019e20be757484"
+          }
+        },
+        {
+          "client_id": "502572568956-f8hq7br0f8fbhen530d4vepr3secumq6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW1ifteQ2AXgm5U6oT5GxmG4v9bzBB9Is"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502572568956-f8hq7br0f8fbhen530d4vepr3secumq6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
